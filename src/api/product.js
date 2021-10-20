@@ -1,4 +1,4 @@
-const API = 'http://localhost:8000/api'
+const API = 'https://project-ptv.herokuapp.com/api'
 
 export const getProducts = async () => {
   try {
